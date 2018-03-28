@@ -1,0 +1,13 @@
+.background-pic {
+    background-image: url('../../../assets/images/home_bg.jpg');
+    width: 100%;
+    min-height: 800px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    /*position: absolute;*/
+    top: 0;
+}
+
+.background-pic h2{
+    font-weight: 200;
+}
