@@ -2,8 +2,9 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sukiasyan.github.io/portfolio",
+  "homepage" : "http://sukiasyan.github.io/portfolio/build/",
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "material-ui": "^0.20.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -25,7 +26,7 @@
   "devDependencies": {
     "babel-preset-stage-1": "^6.24.1",
     "file-loader": "^1.1.11",
-    "gh-pages": "^1.1.0",
     "url-loader": "^1.0.1"
   }
+
 }
