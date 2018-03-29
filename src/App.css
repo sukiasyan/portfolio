@@ -88,4 +88,9 @@ body {
     .mobile {
         display: none;
     }
+    .navDiv {
+        left: 0;
+        position: fixed;
+        width: 20%;
+    }
 }
